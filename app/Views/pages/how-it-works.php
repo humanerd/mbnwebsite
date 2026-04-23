@@ -1,0 +1,4 @@
+<?php partial('components/hero', ['title' => 'Issuance, not custom build.', 'description' => 'MBN uses fixed scope, predefined deliverables, and controlled process sequencing.']); ?>
+<section class="section"><div class="container"><ol class="steps"><li>Operator applies</li><li>Qualification and capital review</li><li>Business type selection</li><li>Deposit / financing path</li><li>Vehicle and build coordination</li><li>Digital stack provisioning</li><li>SOP and launch preparation</li><li>Delivery and launch</li></ol><p>Scope creep is rejected by design to protect timeline certainty and platform integrity.</p></div></section>
+<?php partial('components/faq', ['items' => [['q'=>'Can I request major customization?','a'=>'No. MBN uses predefined tiers and fixed deliverables.'],['q'=>'Why fixed scope?','a'=>'Fixed scope preserves launch predictability, quality control, and partner coordination.']]]); ?>
+<?php partial('components/cta'); ?>

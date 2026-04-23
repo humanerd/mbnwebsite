@@ -1,0 +1,2 @@
+<?php partial('components/hero', ['title' => 'Submission Received', 'description' => 'Your application is in review. If qualified, the MBN team will contact you with next-step requirements.']); ?>
+<section class="section"><div class="container"><p>Thank you for applying. MBN reviews applications for operator fit, capital readiness, and issuance capacity alignment.</p><p><a href="/">Return to homepage</a></p></div></section>
