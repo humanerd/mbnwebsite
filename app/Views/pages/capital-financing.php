@@ -1,0 +1,3 @@
+<?php partial('components/hero', ['title' => 'Capital & Financing', 'description' => 'Three structured entry paths are available. MBN does not directly carry operator loans.']); ?>
+<section class="section"><div class="container"><ol><li><strong>Direct Capital Model:</strong> At least 50% upfront.</li><li><strong>Partnered Equipment Financing Model:</strong> Approved third-party financing partner path.</li><li><strong>Selective Lease + Revenue Participation Model:</strong> Limited availability and strict qualification.</li></ol><p>MBN prefers operators who can move decisively with capital readiness and execution accountability.</p></div></section>
+<?php partial('components/cta'); ?>

@@ -1,0 +1,3 @@
+<?php partial('components/hero', ['title' => 'For Operators', 'description' => 'MBN is designed for serious operators who value structure, speed, and predictable execution.']); ?>
+<section class="section"><div class="container two-col"><div><h2>MBN is for</h2><ul><li>Aspiring owner-operators</li><li>Career switchers with capital readiness</li><li>Operators priced out of franchises</li></ul></div><div><h2>MBN is not for</h2><ul><li>Hobbyists</li><li>Tire-kickers</li><li>Fully custom concept seekers</li></ul></div></div><div class="container"><h2>Operator responsibilities</h2><p>Approved operators are expected to follow SOPs, meet launch milestones, and uphold platform standards in market.</p></div></section>
+<?php partial('components/cta'); ?>

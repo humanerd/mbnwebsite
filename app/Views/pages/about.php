@@ -1,0 +1,3 @@
+<?php partial('components/hero', ['title' => 'About Mobile Business Network', 'description' => 'MBN exists to solve fragmented, high-risk business launch execution with a standardized issuance model.']); ?>
+<section class="section"><div class="container"><p>Traditional paths to launching a mobile service business are often inconsistent, custom-heavy, and timeline-fragile. MBN replaces that uncertainty with a fixed operating architecture and disciplined intake process.</p><p>The mission is operational reliability: launch faster, reduce avoidable variance, and maintain platform standards across operators.</p></div></section>
+<?php partial('components/cta'); ?>

@@ -1,0 +1,3 @@
+<?php partial('components/hero', ['title' => 'Standardized SKUs with capacity-constrained issuance.', 'description' => 'MBN publishes controlled platform options to maintain quality and launch reliability.']); ?>
+<section class="section"><div class="container two-col"><div><h2>Live SKUs</h2><ul><li>Mobile Body Sculpting & Wellness</li><li>Mobile Pet Grooming</li></ul><h2>In development</h2><ul><li>Mobile Barbering & Grooming</li><li>Mobile Massage & Recovery</li></ul></div><div><h2>What is not offered</h2><ul><li>Food trucks</li><li>Custom concepts</li><li>One-off builds</li><li>Unproven verticals</li></ul></div></div></section>
+<?php partial('components/cta'); ?>
